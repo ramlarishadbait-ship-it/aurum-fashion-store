@@ -1,0 +1,26 @@
+# Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+*.iml
+
+# Android
+android/.gradle
+android/local.properties
+android/key.properties
+
+# Firebase — NEVER upload this
+google-services.json
+lib/firebase_options.dart
+
+# IDE
+.idea/
+*.iws
+*.ipr
+.DS_Store
+
+# Dependencies
+.pub-cache/
+.pub/
